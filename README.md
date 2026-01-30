@@ -21,11 +21,12 @@ This project demonstrates SOC-style authentication log analysis using Python to 
 ### Detection Output
 ![Detection Output](analysis_output.png)
 
-### Project Files
-![Project Files](project_files.png)
 
 ### Log File
 ![Log File](log_file.png)
+
+### Project Files
+![Project Files](project_files.png)
 
 ## Skills Demonstrated
 
